@@ -1,4 +1,5 @@
 #include <stdio.h>
+//#include <conio.h>
 #include <stdlib.h>
 #include "proceso.h"
 
@@ -54,7 +55,7 @@ proceso extraer()
         return informacion;
     }
     else{
-    	printf("Error al desencolar");
+    	printf("error al desnecolar");
 	}   
 }
 
